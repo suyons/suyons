@@ -2,9 +2,8 @@
   <img alt="header" src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sooyoung&fontSize=90">
 </div>
 
-<h4 align="center">A developer who comprehend, document, demonstrate for you
-
-<h4 align="center">Blog - Email</h3>
+<h3 align="center">A developer who comprehend, document, demonstrate for you
+<h3 align="center">Blog - Email</h3>
 
 <p align="center">
   <a href="https://velog.io/@syoungs">
@@ -15,7 +14,7 @@
   </a>
 </p>
 
-<h4 align="center">Tech stacks</h3>
+<h3 align="center">Tech stacks</h3>
 
 <p align="center">
   <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/">
@@ -40,7 +39,7 @@
   </a>
 </p>
 
-<h4 align="center">Statistics</h3>
+<h3 align="center">Statistics</h3>
 
 <p align="center">
   <img alt="suyons GitHub stats" src="https://github-readme-stats.vercel.app/api?username=suyons&show_icons=true&theme=dark">
