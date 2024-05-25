@@ -2,9 +2,9 @@
   <img alt="header" src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sooyoung&fontSize=90">
 </div>
 
-<h3 align="center">이해, 설명, 기록을 좋아하는 개발자 김수영입니다</h3>
+<h4 align="center">A developer who comprehend, document, demonstrate for you
 
-<h3 align="center">블로그 - 이메일</h3>
+<h4 align="center">Blog - Email</h3>
 
 <p align="center">
   <a href="https://velog.io/@syoungs">
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<h3 align="center">주요 기술 스택</h3>
+<h4 align="center">Tech stacks</h3>
 
 <p align="center">
   <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/">
@@ -35,17 +35,17 @@
   </a>
 </p>
 
-<h3 align="center">통계</h3>
+<h4 align="center">Statistics</h3>
 
 <p align="center">
   <img alt="suyons GitHub stats" src="https://github-readme-stats.vercel.app/api?username=suyons&show_icons=true&theme=dark">
   <div align="center">
-    <img alt="Langs Rank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyons&layout=compact&theme=dark">
-  </div>
-  <br>
-  <div align="center">
     <a href="https://solved.ac/profile/suyons">
       <img src="https://mazassumnida.wtf/api/generate_badge?boj=suyons">
     </a>
+  </div>
+  <br>
+  <div align="center">
+    <img alt="Langs Rank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyons&layout=compact&theme=dark">
   </div>
 </p>
