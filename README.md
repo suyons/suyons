@@ -21,14 +21,19 @@
   <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/">
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   </a>
+  <a href="https://nextjs.org/docs">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+  </a>
+  <a href="https://fastapi.tiangolo.com/">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  </a>
+  <br>
+  <br>
   <a href="https://dev.mysql.com/doc/refman/8.3/en/">
     <img alt="MySQL" src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white">
   </a>
   <a href="https://aws.amazon.com/ko/">
     <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  </a>
-  <a href="https://nextjs.org/docs">
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
   </a>
   <a href="https://docs.docker.com/manuals/">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
