@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
   </a>
   <a href="mailto:su02ga@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=maildotru&logoColor=white">
   </a>
 </p>
 
