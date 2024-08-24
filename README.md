@@ -2,11 +2,10 @@
   <img alt="header" src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sooyoung&fontSize=90">
 </div>
 
-<h3 align="center">A developer who comprehend, document, demonstrate for you
 <h3 align="center">Blog - Email</h3>
 
 <p align="center">
-  <a href="https://velog.io/@syoungs">
+  <a href="https://velog.io/@suyons">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
   </a>
   <a href="mailto:su02ga@outlook.com">
@@ -42,14 +41,14 @@
 <h3 align="center">Statistics</h3>
 
 <p align="center">
-<!--   <img alt="suyons GitHub stats" src="https://github-readme-stats.vercel.app/api?username=suyons&show_icons=true&theme=dark"> -->
+  <img alt="suyons GitHub stats" src="https://github-readme-stats.vercel.app/api?username=suyons&show_icons=true&theme=dark">
   <div align="center">
     <a href="https://solved.ac/profile/suyons">
       <img src="https://mazassumnida.wtf/api/generate_badge?boj=suyons">
     </a>
   </div>
   <br>
-<!--   <div align="center">
+  <div align="center">
     <img alt="Langs Rank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyons&layout=compact&theme=dark">
-  </div> -->
+  </div>
 </p>
