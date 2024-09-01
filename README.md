@@ -5,7 +5,7 @@
 <h3 align="center">Blog - Email</h3>
 
 <p align="center">
-  <a href="https://velog.io/@suyons">
+  <a href="https://velog.io/@suyons">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
   </a>
   <a href="mailto:su02ga@outlook.com">
