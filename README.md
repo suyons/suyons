@@ -2,14 +2,17 @@
   <img alt="header" src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sooyoung&fontSize=90">
 </div>
 
-<h3 align="center">Blog - Email</h3>
+<h3 align="center">Contact me</h3>
 
 <p align="center">
-  <a href="https://velog.io/@suyons">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+  <a href="https://t.me/suyons">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="mailto:su02ga@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=maildotru&logoColor=white">
+  </a>
+  <a href="https://velog.io/@suyons">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
   </a>
 </p>
 
