@@ -43,15 +43,3 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📊 Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyons&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyons&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-</div>
