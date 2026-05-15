@@ -47,10 +47,10 @@
       <br>Spring
     </td>
     <td align="center" width="96">
-      <a href="https://nextjs.org/">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <a href="https://expressjs.com/">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Next.js" />
       </a>
-      <br>Next.js
+      <br>Express
     </td>
     <td align="center" width="96">
       <a href="https://www.postgresql.org/">
