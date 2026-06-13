@@ -67,17 +67,6 @@ clustering production middleware, and working toward AWS SAA and CKA.
 
 ---
 
-## Currently Building
-
-| Project                                           | Status            |
-| ------------------------------------------------- | ----------------- |
-| GitLab CI/CD → AWS EC2 Windows pipeline           | 🔄 In progress    |
-| OnlyOffice cluster (Redis + RabbitMQ, 200+ users) | 🔄 In progress    |
-| AWS Solutions Architect Associate                 | ⏳ Exam scheduled |
-| k3s on Proxmox (Kubernetes home lab)              | 📋 Planned        |
-
----
-
 ## Personal Projects
 
 ### Home Lab · 2025–Present
@@ -87,7 +76,7 @@ containerized workloads, Nginx reverse proxy, Cloudflare DNS/CDN/security proxy,
 all configured from scratch. Runs in production. I maintain it because it's fun.
 Documented at [suyons.github.io](https://suyons.github.io).
 
-### Algo Trading · 2022–Present
+### Algo Trading · 2022–2026
 
 Three years building and operating automated trading systems across equities,
 forex, and crypto — covering signal design, backtesting pipelines, live execution,
