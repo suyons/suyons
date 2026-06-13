@@ -78,6 +78,8 @@ like the craft. Everything I learn goes on my blog.
 - 50+ strategies designed and backtested, with a focus on bias mitigation
 - Backtested over 5 years of historical data / 10+ instruments
 
+#### Related Repositories
+
 - [TradingView Indicators](https://github.com/suyons/tradingview-indicators) — Pine Script strategy and indicator library
 - [cTrader FIX API](https://github.com/suyons/trading-ctrader) — low-latency order execution via FIX protocol
 - [ATR Renko Crypto Bot](https://github.com/suyons/trading-atr-renko-gate) — volatility-based strategy on crypto markets
