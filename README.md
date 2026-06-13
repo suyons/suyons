@@ -1,6 +1,6 @@
 # Sooyoung Kim
 
-**Platform & Backend Engineer | Open to Remote Worldwide**
+**Infrastructure & Backend Engineer | Open to Remote Worldwide**
 
 - Location: Seoul, Korea (UTC+9)
 - Email: [suyons@cccs.uk](mailto:suyons@cccs.uk)
@@ -20,13 +20,10 @@ deployment, and day-to-day operations. My environments have included air-gapped
 financial networks, GMP-regulated pharmaceutical platforms, and military-scale
 endpoint infrastructure.
 
-Outside work, I run a personal home server on Proxmox VE — multiple
+Outside work, I run production-grade infrastructure on Proxmox VE — multiple
 containerized services, Nginx reverse proxy, Cloudflare tunnel, all built from
-scratch. I do it because I find it genuinely interesting. Everything I learn
-goes on my blog.
-
-Currently closing the gap toward DevOps engineering: building CI/CD pipelines,
-clustering production middleware, and working toward AWS SAA and CKA.
+scratch — to practice the patterns I can't always touch at work, and because I
+like the craft. Everything I learn goes on my blog.
 
 ---
 
@@ -34,36 +31,34 @@ clustering production middleware, and working toward AWS SAA and CKA.
 
 ### Application Support Engineer — Pharmaceutical · 2026–Present
 
-- Deploying and operating OnlyOffice collaborative document platform for 200+ users
-- Architecting OnlyOffice server cluster with Redis + RabbitMQ for high availability
-- GMP compliance environment — pharmaceutical regulatory constraints on deployment
-- Building CI/CD pipeline: self-hosted GitLab → AWS EC2 Windows via gitlab-runner
-- **Stack:** Node.js/Express, Redis, RabbitMQ, OnlyOffice Document Server
+- Deployed and operate the collaborative document platform for 200+ users
+- Delivered under GMP validation constraints — every deploy gated by documented change control
+- Cut deployment time from 10 min (manual) to 1 min via CI/CD pipeline
+- Refactored legacy codebase from Node 16 to 24 to mitigate security vulnerabilities
+- Migration of legacy database from MSSQL to MySQL, with zero data loss
+- **Stack:** Node.js/Express, Redis, RabbitMQ, GitLab Runner, OnlyOffice Document Server
 
 ### Infrastructure & Middleware Engineer — Korean Financial Group SI · 2024–2026
 
-- Full ownership from scratch: DB schema design → business logic → network → deploy → operate
-- Designed on-premise infrastructure following air-gapped network compliance requirements
-- Managed Redis caching layer and RabbitMQ message queue across deployment lifecycle
-- **Stack:** Spring Boot, Oracle Database 19c, Apache/Tomcat, Redis, RabbitMQ, RHEL
+- Owned the full stack from scratch on air-gapped network: DB schema design → business logic → network → deploy → operate
+- Designed on-prem infrastructure for production and development environments
+- Reduced average API response time from 1.5s to 0.3s through query optimization
+- Built system serving 3 TPS for 1K+ users on Oracle 19c (5M rows), interacting with legacy systems
+- **Stack:** Spring Boot, Oracle Database 19c, Apache/Tomcat, RHEL, JMeter, Enterprise Service Bus, Application Performance Monitoring
 
 ### Enterprise Technical Support Engineer — IT Outsourcing · 2023–2024
 
-- Front and back office IT support for global enterprise clients
-- Clients: L'Oréal, Calvin Klein, Richemont
-- Incident resolution in high-availability, business-critical environments
+- Delivered front and back office IT support for global enterprise clients
+- Resolved average of 20 tickets/day with under 1-hour resolution time
+- Clients: L'Oréal, Calvin Klein, Richemont, Starbucks, and more
+- **Stack:** Cisco Meraki, Jira, Microsoft Active Directory, ServiceNow
 
 ### Network & Endpoint Infrastructure Administrator — ROK Army · 2020–2022
 
-- Sole administrator for 2,000+ endpoint infrastructure at a central IT control tower
-- Administered NAC, UTM, DRM security solutions in a classified environment
-- Managed Cisco L2/L3 switches: VLANs, inter-VLAN routing, port configuration,
-  network segmentation
-
-### PC Systems Technician — Computer Manufacturer · 2015–2016
-
-- Hardware and Windows OS troubleshooting at manufacturing scale
-- Managed inventory and logistics for 100+ daily units
+- Admin for 1.5K+ endpoints across 7 subnets in a central IT control tower
+- Enforced NAC/UTM/DRM policies in a classified environment with zero security incidents over 1 year
+- Configured Cisco L2/L3 switches: VLANs, ACL, port configuration, network segmentation
+- Resolved on-site endpoint incidents (Windows BSOD, malware)
 
 ---
 
@@ -71,22 +66,22 @@ clustering production middleware, and working toward AWS SAA and CKA.
 
 ### Home Lab · 2025–Present
 
-Running a personal multi-service infrastructure on Proxmox VE — multiple
-containerized workloads, Nginx reverse proxy, Cloudflare DNS/CDN/security proxy,
-all configured from scratch. Runs in production. I maintain it because it's fun.
-Documented at [suyons.github.io](https://suyons.github.io).
+- Running 4 containerized services on single Proxmox VE node at 99.9% uptime over 1 year
+- Self-hosted containerized workloads behind an Nginx reverse proxy and Cloudflare DNS/CDN/security proxy
+- Runs in production; documented at [suyons.github.io](https://suyons.github.io)
 
-### Algo Trading · 2022–2026
+### Algo Trading · 2023–2026
 
-Three years building and operating automated trading systems across equities,
-forex, and crypto — covering signal design, backtesting pipelines, live execution,
-and broker API integration. Real financial stakes; kept me honest about
-production reliability.
+- Built and operated automated trading systems across equities, forex, and crypto over 3 years
+- Covered the full pipeline: signal design, backtesting, live execution, and broker API integration
+- Ran against real financial stakes, which held the systems to production reliability standards
+- 50+ strategies designed and backtested, with a focus on bias mitigation
+- Backtested over 5 years of historical data / 10+ instruments
 
 - [TradingView Indicators](https://github.com/suyons/tradingview-indicators) — Pine Script strategy and indicator library
 - [cTrader FIX API](https://github.com/suyons/trading-ctrader) — low-latency order execution via FIX protocol
 - [ATR Renko Crypto Bot](https://github.com/suyons/trading-atr-renko-gate) — volatility-based strategy on crypto markets
-- [FastAPI Wrapped MT5](https://github.com/suyons/fastapi-wrapped-mt5) — REST API wrapper around MetaTrader5 for programmatic trading
+- [FastAPI Wrapped MT5](https://github.com/suyons/fastapi-wrapped-mt5) — REST API wrapper around MetaTrader5 for algo trading
 
 ---
 
@@ -125,7 +120,6 @@ production reliability.
 ## Certifications
 
 - Engineer Information Processing (Korean national IT certification)
-- AWS Certified Solutions Architect – Associate _(in progress)_
 
 ---
 
