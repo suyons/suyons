@@ -3,7 +3,7 @@
 **Infrastructure & Backend Engineer | Open to Remote Worldwide**
 
 - Location: Seoul, Korea (UTC+9)
-- Email: [suyons@cccs.uk](mailto:suyons@cccs.uk)
+- Email: [suyons@pm.me](mailto:suyons@pm.me)
 - Blog: [suyons.github.io](https://suyons.github.io)
 - LinkedIn: [@suyons](https://www.linkedin.com/in/suyons)
 
